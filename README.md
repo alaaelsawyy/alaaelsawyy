@@ -1,8 +1,7 @@
-<h1 align="center">Hi &#x1F44B;, I'm Alaa Elsawy</h1>
+<h1 align="center">"Hey there!, I'm Alaa Elsawy🤖👩🏻‍💻</h1>
 
 - 🎓 I’m currently studying at **Faculty of Navigation Science and Space Technology**
 
-- 📫 How to reach me **alaaelsawy927@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
