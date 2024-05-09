@@ -1,4 +1,4 @@
-<h1 align="center">"Hey there!, I'm Alaa Elsawy🤖👩🏻‍💻</h1>
+<h1 align="center">"Hey there!, I'm Alaa Elsawy</h1>
 
 - 🎓 I’m currently studying at **Faculty of Navigation Science and Space Technology**
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif?cid=790b7611c02503df07xeted2ikf6edts7gr9xnkx0a9bmi4x&ep=v1_gifs_search&rid=giphy.gif&ct=g">
