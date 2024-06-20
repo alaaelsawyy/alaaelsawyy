@@ -1,7 +1,6 @@
 <h1 align="center">"Hey there!, I'm Alaa Elsawy</h1>
 
 - 🎓 I’m currently studying at **Faculty of Navigation Science and Space Technology**
-<img align="right" alt="Coding" width="400" 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
