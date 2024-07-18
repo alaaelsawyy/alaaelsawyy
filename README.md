@@ -1,5 +1,3 @@
-<h1 align="center">"Hey there!, I'm Alaa Elsawy</h1>
-
 - 🎓 I’m currently studying at **Faculty of Navigation Science and Space Technology**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,5 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaelsawyy&theme=dark&show_icons=true&locale=en&layout=compact" alt="alaaelsawyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&theme=dark&show_icons=true&locale=en" alt="alaaelsawyy" /></p>
 
