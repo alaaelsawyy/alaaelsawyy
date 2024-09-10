@@ -3,7 +3,7 @@
 ### Hey!
 
 I'm *Alaa*, a Space Navigation student with a strong passion for exploring new things.
-![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)
+![pgp](https://img.shields.io/badge/-313131?style=flat&labelColor=545454&color=313131)
 <br>
 
 
@@ -28,7 +28,7 @@ I'm *Alaa*, a Space Navigation student with a strong passion for exploring new t
 
 
 
-# My Status
+### My Status
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
@@ -37,7 +37,7 @@ I'm *Alaa*, a Space Navigation student with a strong passion for exploring new t
 
 ---
 
-# My Contributions
+### My Contributions
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=760)](https://git.io/streak-stats)
