@@ -13,8 +13,8 @@ I'm *Alaa*, a Space Navigation student with a strong passion for exploring new t
 
 
 
-<h3 align="center">
-<p align="center">
+<h3 align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/alaa-el-sawy-2809592b0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaaelsawyy (LinkedIn)" height="30" width="40" /></a>
   <a href="mailto:alaaelsawy927@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" alt="Email" /></a>
   <a href="https://codeforces.com/profile/alaaelsawy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alaaelsawy (Codeforces)" height="30" width="40" /></a>
@@ -38,8 +38,11 @@ I'm *Alaa*, a Space Navigation student with a strong passion for exploring new t
 ---
 
 # My Contributions
-
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=760)](https://git.io/streak-stats)
+
+</div>
 
 
 
