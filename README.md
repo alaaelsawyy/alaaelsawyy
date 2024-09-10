@@ -31,15 +31,15 @@ I'm *Alaa*, a Space Navigation student with a strong passion for exploring new t
 # My Status
 
 <div align="center">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelsawyy&layout=compact&langs_count=20&theme=transparent" alt="Top Languages"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelsawyy&layout=compact&langs_count=20&theme=transparent" alt="Top Languages"/>
 </div>
 
 ---
 
 # My Contributions
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=770)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=760)](https://git.io/streak-stats)
 
 
 
