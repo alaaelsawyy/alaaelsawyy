@@ -40,7 +40,7 @@ I'm *Alaa*, a Space Navigation student with a strong passion for exploring new t
 ### My Contributions
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=760)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=780)](https://git.io/streak-stats)
 
 </div>
 
