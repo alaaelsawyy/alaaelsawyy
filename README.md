@@ -2,7 +2,6 @@
 
 ### Hey!
 
-I'm *Alaa*, a Space Navigation student with a strong passion for exploring new things.
 ![pgp](https://img.shields.io/badge/-313131?style=flat&labelColor=545454&color=313131)
 <br>
 
