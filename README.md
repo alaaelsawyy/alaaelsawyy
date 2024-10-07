@@ -1,14 +1,3 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
-
-### Hey!
-
-![pgp](https://img.shields.io/badge/-313131?style=flat&labelColor=545454&color=313131)
-<br>
-
-
-
-
-
 
 
 
@@ -30,7 +19,7 @@
 ### My Status
 
 <div align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelsawyy&layout=compact&langs_count=20&theme=transparent" alt="Top Languages"/>
 </div>
 
