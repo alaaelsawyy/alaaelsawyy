@@ -16,21 +16,8 @@
 
 
 
-### My Status
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alaaelsawyy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaelsawyy&layout=compact&langs_count=20&theme=transparent" alt="Top Languages"/>
-</div>
 
----
-
-### My Contributions
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaaelsawyy&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=780)](https://git.io/streak-stats)
-
-</div>
 
 
 
